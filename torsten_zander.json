@@ -7,7 +7,7 @@
     "city": ["Wiesbaden", "Mainz", "Frankfurt"],
     "keywords": ["Php", "Symfony", "Zend", "Mysql","Doctrine", "Propel", "ContinousIntegration", "TestDrivenDevelopment", "Selenium", "jQuery" ],
     "profiles": {
-        "gravatar": "",
+        "gravatar": "info@tzander.de",
         "xing": "https://www.xing.com/profile/Torsten_Zander2",
         "twitter": "https://twitter.com/torstenzander",
         "google+": "https://plus.google.com/107692581640909902970",
